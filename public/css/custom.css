@@ -1,0 +1,6 @@
+/* Adjust pagination arrow size */
+.pagination .page-item:first-child .page-link,
+.pagination .page-item:last-child .page-link {
+    font-size: 7px; /* Adjust the font size as needed */
+    padding: 0.3rem 0.6rem; /* Adjust the padding as needed */
+}
